@@ -1,0 +1,29 @@
+{
+  "name": "ema-su",
+  "version": "0.0.1",
+  "description": "A Constructed Language (Conlang)",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "language",
+    "constructed",
+    "communication",
+    "planned",
+    "conlang",
+    "ema-su"
+  ],
+  "author": {
+    "name": "Armotus"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armotus/ema-su.git"
+  },
+  "bugs": {
+    "url": "https://github.com/armotus/ema-su/issues"
+  },
+  "homepage": "https://github.com/armotus/ema-su#readme"
+}
